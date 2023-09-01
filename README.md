@@ -1,6 +1,6 @@
 # About me
 
-<img src="funny-dog-unsplash.jpg" width="200"/>
+<img src="bua.jpg" width="200"/>
 
 Hi! I am Bua (Phrimphissa) Kraikhun, a healthcare analytics and information technology student with a passion for business analytics. My goal is to provide valuable insights, recommendations and compelling stories using data. I believe that turning complex information into accessible and engaging visuals is the key to data-driven organizational success. 
 
