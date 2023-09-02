@@ -11,17 +11,14 @@ In my journey as a healthcare analytics and IT student with a background in busi
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 1: 
 Place holder for assignments description
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: 
 Place holder for assignments description
 
 ## Final project
 Place holder for final project description
-- [Part I](final-project-part-one)
-- [Part II](final-project-part-two)
-- Part III(final-project-part-three)
 
 # What I hope to learn
 
