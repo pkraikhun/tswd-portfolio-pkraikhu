@@ -22,7 +22,9 @@ Place holder for final project description
 
 # What I hope to learn
 
+I hope to learn from the class:
 - Tools that will help me transform, visualize and uncover the insights of the data
 - Make visualization that best benefits my audiences
 - Provide and take constructive feedback and critiques
 
+After graduating, I plan to return to my previous employer, where I will work as a data analyst in the value chain optimization department. This role entails communication with a diverse range of stakeholders, including governmental and private companies. With the skills I have acquired from this class, I will be proficient in creating suitable visualizations and crafting compelling narratives to persuade decision-makers and engage all stakeholders effectively.
