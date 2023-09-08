@@ -2,7 +2,13 @@
 
 # Assignment: Visualizing government debt
 
-## Part I: OECD General government debt 
+## Part I: Web-based Visualization Tools
 
-<iframe src="https://data.oecd.org/chart/7b5L" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b5L" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017 – 2021</a></iframe>
+This visualization shows general givernment debt of each country in Europian Union as % of GDP in 2020.
+
+<iframe src="https://data.oecd.org/chart/7b5S" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b5S" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+
+The highlighted bars are countries in Northern Europe.
+
+## Part II: Flourish
 
