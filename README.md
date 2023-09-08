@@ -11,8 +11,8 @@ In my journey as a healthcare analytics and IT student with a background in busi
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! 
 
-## Assignment 1: 
-Place holder for assignments description
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
+In this assignment, various tools are used to visualize general government debt of various countries. 
 
 ## Assignment 3&4: 
 Place holder for assignments description
