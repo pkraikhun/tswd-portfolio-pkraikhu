@@ -15,3 +15,8 @@ The highlighted bars are countries in Northern Europe.
 This visualization shows grid of line charts of general government debt as % of GDP from 1995 to 2019.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14953596"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Part III: 
+
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/14953783"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
