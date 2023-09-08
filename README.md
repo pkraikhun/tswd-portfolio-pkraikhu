@@ -11,7 +11,7 @@ In my journey as a healthcare analytics and IT student with a background in busi
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! 
 
-## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt.md)
 In this assignment, various tools are used to visualize general government debt of various countries. 
 
 ## Assignment 3&4: 
