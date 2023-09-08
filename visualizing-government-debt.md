@@ -18,8 +18,7 @@ This visualization shows grid of line charts of general government debt as % of 
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/14960656"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-G7 Countries
-
+While the bar chart makes the comparison between level of debt between countries easy for the readers, it only shows one year of each country not reflecting the changes through time. On the other hand, the grid of line charts visualize the level of debt of each country separately with year as x-axis making it easier to see trend. The comparison between countries becomes more difficult even though the y-axis range is the same. THe readers have to scan through all charts to determine which country has the largest debt to GDP. The third chart, heatmap, 
 
 
 
