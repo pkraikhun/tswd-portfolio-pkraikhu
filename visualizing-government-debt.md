@@ -8,13 +8,13 @@
 
 This visualization shows general government debt of each country in Europian Union as % of GDP in 2020. The highlighted bars are countries in Northern Europe.
 
-## Part II: Flourish
+## Part II: Flourish - Grid of Line Charts
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14953596"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 This visualization shows grid of line charts of general government debt as % of GDP from 1995 to 2019.
 
-## Part III: 
+## Part III: Flourish - Heatmap
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/14960656"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
