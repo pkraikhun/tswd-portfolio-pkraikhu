@@ -4,7 +4,7 @@
 
 ## Part I:
 World Investment Report 2010
-![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/8293988d-9768-4790-92ef-3f22269a8792)
+![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/8293988d-9768-4790-92ef-3f22269a8792){: width="600px"}
 
 ## Part II: Critique the data visualization
 -	Usefulness: 10 – The data provides information on percentage of sovereign wealth fund investment in each sector for two period reflecting the changes in proportion of the investment. 
@@ -31,6 +31,5 @@ Finally, I picked the slope chart as the visualization of choice. As can be seen
 
 ## Part IV:
 
-<div class="flourish-embed flourish-slope" data-src="visualisation/15011826"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<div class="flourish-embed flourish-slope" data-src="visualisation/15038109"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
