@@ -14,8 +14,8 @@ This is my public portfolio for Telling Stories with Data at CMU!
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt.md)
 In this assignment, various tools and visualization are used to provide information about general government debt of each countries. 
 
-## Assignment 3&4: 
-Place holder for assignments description
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
+I critiqued a visualization from World Investment Report published by UNCTAD in 2010 and proposed a new visualization that would better convey the information. 
 
 ## Final project
 Place holder for final project description
