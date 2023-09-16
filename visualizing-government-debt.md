@@ -1,4 +1,4 @@
-| [home page](https://pkraikhun.github.io/tswd-portfolio-pkraikhu/) | [visualizing debt](visualizing-government-debt) | critique by design | final project
+| [home page](https://pkraikhun.github.io/tswd-portfolio-pkraikhu/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I] | [final project II] | [final project III] |
 
 # Assignment: Visualizing government debt
 
