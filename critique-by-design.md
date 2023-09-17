@@ -9,6 +9,7 @@ World Investment Report 2010
 </p>
 
 ## Part II: Critique the data visualization
+The visualization is critiqued according to Stephen Few's Data Visualization Effectiveness Profile as follow:
 -	Usefulness: 10 – The data provides information on percentage of sovereign wealth fund investment in each sector for two period reflecting the changes in proportion of the investment. 
 -	Completeness: 10 – The visualization includes the right amount of data. The goal is to see changes in proportion of the FDI in two time periods. Therefore, data in level of percentage of each category is appropriate. 
 -	Perceptibility: 5 – the color along with pattern used in the chart is distracting. Without looking at the value label, pie chart area is difficult to grasp. The additional 3D effect makes it even harder to compare each category of investment. Even though color and texture is used to differentiate between sectors, the position of each piece changes which takes more eye travel for audiences to notice changes. In short, looking at the pie charts, audiences do not get the message they are trying to convey right away.
