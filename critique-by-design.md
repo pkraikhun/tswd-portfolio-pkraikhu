@@ -8,6 +8,8 @@
 <img src="critique-by-design-original.png" width="800"/>
 </p>
 
+I went through World Investment Report 2010 and found this visualization with two 3d pie chart. The visualization shows the proportion of sovereign wealth funds (SWF) foreign direct investment in various sector in Y2007-2008 and Y2009-2010. 
+
 ## Part II: Critique the data visualization
 The visualization is critiqued according to Stephen Few's Data Visualization Effectiveness Profile on following criteria:
 -	Usefulness: 10 – The data provides information on percentage of sovereign wealth fund investment in each sector for two period reflecting the changes in proportion of the investment. 
@@ -19,7 +21,7 @@ The visualization is critiqued according to Stephen Few's Data Visualization Eff
 -	Engagement: 6 – Texture distracts the audiences from the information presented. However, the audiences can still see and understand the data.
 
 ## Part III: Sketch out a solution
-I started with bar chart as it could reduce the eye travel when comparing the different between FDI in two period. The clustered vertical bar chart with color as year indicator is a good candidate, but there are some sectors which started off very high and went to 0 (i.e. Finance). The bar chart does not highlight this fact which can be a disadvantage in conveying the message. 
+The data is copied from the two pie charts and put into csv file. Then, I started sketching some ideas for potential visualizations. The first candidate is bar chart as it could reduce the eye travel when comparing the different between FDI in two period. The clustered vertical bar chart is colored as year indicator and each cluster represents a sector. The length of bar is easier to ccompared than the area in pie chart, but it still doesn't show the changes in some sectors. There are some sectors which started off very high and went to 0 (i.e. Finance). The bar chart does not highlight this fact which can be a disadvantage in conveying the message. 
 
 <p align="center">
 <img src="critique-by-design-v1.png" width="600"/>
@@ -45,7 +47,7 @@ After selecting the type of chart, I adjust colors and format to make it cleaner
 
 The visualization is shown to two friends who provide me with their critique on the chart.
 
-Friend 1: It took her sometime to figure out the meaning of the topic as she does not have expertise in economics, particularly the accronym. After some context about the SWF and FDI, she thought the chart highlight the information on the change well. However, it took her a while to notice the year lable of the axis. She also mentioned that the slope chart was not very familiar to her. Apart from that, she had some comment on the shades of color green that is used to differentiate the chart. It was too dark and appered more black. She also recommended adjusting the size of the sector legend.
+Friend 1: It took her sometime to figure out the meaning of the topic as she does not have expertise in economics, particularly the accronym. After some context about the SWF and FDI, she thought the chart highlight the information on the change well. However, it took her a while to notice the year lable of the axis. She also mentioned that the slope chart was not very familiar to her. Apart from that, she had some comment on the shades of color green that is used to differentiate the chart. It was too dark and appered more black. Lastly, She recommended adjusting the size of the sector legend.
 
 Friend 2: She also faced the same problem of not understanding the SWF and FDI concept. She recommended adding subtitle to provide more clarity. She mentioned that the visualizaion aligns with the normal eye-travel pattern - from left to right. With label on the right hand side makes it not redundance. However, she expressed concern as using green-red color pair not only symbolize increase-decrease, but also good-bad. Hence, it would be better to pick some color that does not provide that impression. Additionally, the shade of grey used is also a little bit too dark making the whole visualization seems busy.
 
@@ -53,5 +55,5 @@ Friend 2: She also faced the same problem of not understanding the SWF and FDI c
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/15038109"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The final visualization is revised according feedback and critiques. The color scheme used is blue-orange which is more neutral than green-red which could imply the good/bad meaning. Additionaly, the color of other lines are adjusted so that it wouldn't be distracting to the reader. The full information is also available as a pop-up text box when clinking or hovering over the lines. Apart from that, the title is adjusted to reflect the information presented and subtitle is added to provide more context to the reader. This way, the visualization could stand on its own without much context, unlike the original one which accompanied by a paragraph of text. The subtitle is cited from the original report to ensure the accuracy of the analysis. Overall, the slope chart captures the change in proportion of FDI that SWD made over two periods well. With the use of colors (blue-orange and grey), the information stands out making it easier for the reader to grasp the message that the visualization is trying to convey. 
+The final visualization is revised according feedback and critiques. The color scheme used is blue-orange which is more neutral than green-red which could imply the good/bad meaning. Additionaly, the color of other lines are adjusted so that it wouldn't be distracting to the reader. The full information is also available as a pop-up text box when clinking or hovering over the lines. Apart from that, the title is adjusted to reflect the information presented and subtitle is added to provide more context to the reader who might not aware of the accronym. This way, the visualization could stand on its own without much context, unlike the original one which accompanied by a paragraph of text. The subtitle is cited from the original report to ensure the accuracy of the analysis. Overall, the slope chart captures the change in proportion of FDI that SWD made over two periods well. With the use of colors (blue-orange and grey), the information stands out making it easier for the reader to grasp the message that the visualization is trying to convey. 
 
