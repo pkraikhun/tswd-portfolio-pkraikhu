@@ -1,4 +1,4 @@
-| [home page](https://pkraikhun.github.io/tswd-portfolio-pkraikhu/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I] | [final project II] | [final project III] |
+| [home page](https://pkraikhun.github.io/tswd-portfolio-pkraikhu/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | final project I | final project II | final project III |
 
 # Assignment 3&4: Critique by design
 
