@@ -21,25 +21,25 @@ Electricity bill consists of 4 elements
 3.	Service Charge – flat rate per month per meter
 4.	VAT (7%) by law
 
-> A picture of sample electricity bills with fours elements shown
-> ![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/c44b4a43-0661-402d-83ab-f6526a9b7147)
+A picture of sample electricity bills with fours elements shown
+![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/c44b4a43-0661-402d-83ab-f6526a9b7147)
 
 
 Most part of the electricity price remain constant in the past 5 years, except the FT which causes the rising electricity bills beginning last year. 
 
-> A graph shows the FT changes in the past 5 years (this chart should highlight the big jump in varuable price of electricity)
-> ![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/27fb2ba0-ea6c-4525-912e-2a65d40992db)
-> ![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/bda8a106-4d7c-4c16-a427-ac54d7f7c03d)
+A graph shows the FT changes in the past 5 years (this chart should highlight the big jump in varuable price of electricity)
+![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/27fb2ba0-ea6c-4525-912e-2a65d40992db)
+![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/bda8a106-4d7c-4c16-a427-ac54d7f7c03d)
 
 Thailand primarily derives its natural gas from domestic production (over 50% in 2022), which provides a degree of stability against market price fluctuations and exchange rate volatility. Nonetheless, the domestic supply experienced a significant 35% decline from its peak in 2014 by the year 2022. This decline has led to an escalating dependence on imported natural gas in the form of Liquefied Natural Gas (LNG), which is susceptible to market price fluctuations denominated in USD.
 
-> The visualization to highlight the drop in domestic production
-> ![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/059f659d-fde5-4712-a28b-5bd2458b465f)
+The visualization to highlight the drop in domestic production
+![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/059f659d-fde5-4712-a28b-5bd2458b465f)
 
 According to projections from the Energy Policy and Planning Office (EPPO), Thailand is expected to escalate its LNG imports by 10% annually. By the year 2037, a significant 71% of the country's natural gas supply is anticipated to come from these imported LNG sources. This growing reliance on imports underscores the importance of monitoring global energy markets and exchange rates for Thailand's energy security and economic stability.
 
-> The area chart to show the changes in natural gas sourcing highlighting the shift to rely on imported LNG.
-> ![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/93496766-4cd4-4c10-9fd1-12387e61948a)
+The area chart to show the changes in natural gas sourcing highlighting the shift to rely on imported LNG.
+![image](https://github.com/pkraikhun/tswd-portfolio-pkraikhu/assets/122995804/93496766-4cd4-4c10-9fd1-12387e61948a)
 
 Impact of high electricity price
 The high electricity price hike in Thailand will have significant impacts:
