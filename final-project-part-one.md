@@ -48,7 +48,7 @@ According to projections from the Energy Policy and Planning Office (EPPO), Thai
 
 The area chart to show the changes in natural gas sourcing highlighting the shift to rely on imported LNG.
 <p align="center">
-<img src="final-project-part-one-ng.png" width="800"/>
+<img src="final-project-part-one-ng-source.png" width="800"/>
 </p>
 
 Impact of high electricity price
