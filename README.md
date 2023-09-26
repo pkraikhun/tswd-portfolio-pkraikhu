@@ -18,7 +18,8 @@ In this assignment, various tools and visualization are used to provide informat
 I critiqued a visualization from World Investment Report published by UNCTAD in 2010 and proposed a new visualization that would better convey the information. 
 
 ## Final project
-Place holder for final project description
+- [Final Project Part I](final-project-part-one.md)
+- 
 
 # What I hope to learn
 
