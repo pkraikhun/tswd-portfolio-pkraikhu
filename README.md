@@ -19,7 +19,7 @@ I critiqued a visualization from World Investment Report published by UNCTAD in 
 
 ## Final project
 - [Final Project Part I](final-project-part-one.md)
-- 
+- [Final Project Part II](final-project-part-two.md)
 
 # What I hope to learn
 
