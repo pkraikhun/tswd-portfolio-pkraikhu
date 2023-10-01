@@ -29,9 +29,7 @@ Three persons are interviewed as target audience representatives. They are in di
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Is the story compelling? |Yes, the topic itself is relatable and each items are clearly discussed.           |   Neutral, still not responsible for the bills. After going through a story, quite interesting.          |   Informative, not very convincing.
-It provides clear information well with nice graphics and color theme.
-          |
+| Is the story compelling? |Yes, the topic itself is relatable and each items are clearly discussed.           |   Neutral, still not responsible for the bills. After going through a story, quite interesting. |   Informative, not very convincing. It provides clear information well with nice graphics and color theme.|
 | Is there other information you would like to know regarding the topic?                        |    It would be better to provide more context on the renewable energy to make people see the potential benefits. For example, the cost.                               |    Like the price break down because no basic.        |  None. The information is complete.           |
 |   Are the visualizations clear and easy to understand?                      |   FT chart: y-axis unit is unclear
 Domestic ng: title is not clear
