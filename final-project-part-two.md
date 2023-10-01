@@ -1,55 +1,55 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+The story is drafted in Shorthand as shown below. The full page can also be accessed by link. As per the outline in the part one deliverable, the story tarted with introducing the electricity price components. Then, the variable rate (FT) which is the source of the rise will be discussed. After that, depleting domestic natural gas production is identified as the causes of the rise in FT. The story is followed by the impact it has on the economics. Finally, the call to action would be awareness and support in shifting to more sustainable sources.
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+This story is aimed at the general population in Thailand, with the goal of providing information about the factors contributing to high electricity prices and raising awareness of the shift towards more renewable energy sources. Representative individuals have been selected from diverse educational backgrounds, occupations, and age groups to provide feedback on the storyboard, as the target audience is quite diverse. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|   Storyline   |            Is the story compelling?      |
+|  Identify missing information    |         there other information you would like to know regarding the topic?          |
+|   Check for clarity   |           Are the visualizations clear and easy to understand?       |
+|  Identify misleading points  |  Is there anything you find surprising or confusing?  |
+|  Broaden the perspective and get ideas  |  Is there anything you would change or do differently?  |
 
 
 Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Three persons are interviewed as target audience representatives. They are in different age groups and work/study in different fields to represent the diverse group of audiences.
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Is the story compelling? |Yes, the topic itself is relatable and each items are clearly discussed.           |   Neutral, still not responsible for the bills. After going through a story, quite interesting.          |   Informative, not very convincing.
+It provides clear information well with nice graphics and color theme.
+          |
+| Is there other information you would like to know regarding the topic?                        |    It would be better to provide more context on the renewable energy to make people see the potential benefits. For example, the cost.                               |    Like the price break down because no basic.        |  None. The information is complete.           |
+|   Are the visualizations clear and easy to understand?                      |   FT chart: y-axis unit is unclear
+Domestic ng: title is not clear
+Total NG: y-axis unit        |    Domestic NG: unclear what is the unit of the value         |  Yes. Recommend bigger axis labels           |
+| Is there anything you find surprising or confusing? | Surprised at the jump in FT price and the drop in domestic NG | The high jump in FT. | The drop in domestic natural gas supply is surprising. |
+Is there anything you would change or do differently? | The transition between section is a little bit off | The jump to last page is quite sudden. Add more information on renewable energy could help.| Add more connection to the last page. | 
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
 Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Findings or observations from interviews | Domestic NG supply chart: change title to Percent Decline in Domestic Natural Gas Production from the peak in 2014 (%)  |
+|                                          | Increase the chart axis label size        |
+|                                          | FT Chart: add unit to the legend (/100 THB)  |
+|                                          | Add a new section showing cost different for each source of electricity                                              |
+
 
 > ...include any final thoughts you have here. 
 
