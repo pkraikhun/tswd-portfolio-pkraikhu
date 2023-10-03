@@ -30,7 +30,7 @@ The interview questions are designed to pinpoint any missing or unclear details 
 
 Three persons are interviewed as target audience representatives. They are in different age groups and work/study in different fields to represent the diverse group of audiences.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Office worker in banking, 26) | Interview 2 (Student in STEM, 22) | Interview 3 (Business owner, 59) |
 |-------------------------|--------------------------------|-------------|-------------|
 | Is the story compelling? |Yes, the topic itself is relatable and each items are clearly discussed.           |   Neutral, still not responsible for the bills. After going through a story, quite interesting. |   Informative, not very convincing. It provides clear information well with nice graphics and color theme.|
 | Is there other information you would like to know regarding the topic?                        |    It would be better to provide more context on the renewable energy to make people see the potential benefits. For example, the cost.                               |    Like the price break down because no basic.        |  None. The information is complete.           |
