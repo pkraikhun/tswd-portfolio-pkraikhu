@@ -15,7 +15,6 @@ This story is aimed at the general population in Thailand, with the goal of prov
 
 ## Interview script
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -25,8 +24,7 @@ Text here!
 |  Identify misleading points  |  Is there anything you find surprising or confusing?  |
 |  Broaden the perspective and get ideas  |  Is there anything you would change or do differently?  |
 
-
-Text here!
+The interview questions are designed to pinpoint any missing or unclear details within the story and its visualization. They also serve to ensure a smooth flow and compelling narrative that resonates with the diverse audience this story may reach.
 
 ## Interview findings
 
