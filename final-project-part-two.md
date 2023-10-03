@@ -1,7 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | final project III |
 
 # Wireframes / storyboards
-The story is drafted in Shorthand as shown below. The full page can also be accessed by link. As per the outline in the part one deliverable, the story tarted with introducing the electricity price components. Then, the variable rate (FT) which is the source of the rise will be discussed. After that, depleting domestic natural gas production is identified as the causes of the rise in FT. The story is followed by the impact it has on the economics. Finally, the call to action would be awareness and support in shifting to more sustainable sources.
+The story is drafted in Shorthand as shown below. The full page can also be accessed by [link](https://carnegiemellon.shorthandstories.com/unpacking-the-surge/index.html). As per the outline in the part one deliverable, the story tarted with introducing the electricity price components. Then, the variable rate (FT) which is the source of the rise will be discussed. After that, depleting domestic natural gas production is identified as the causes of the rise in FT. The story is followed by the impact it has on the economics. Finally, the call to action would be awareness and support in shifting to more sustainable sources.
 
 <p align="center">
 <img src="final-project-part-two.png" width="900"/>
@@ -42,22 +42,21 @@ Is there anything you would change or do differently? | The transition between s
 
 
 # Identified changes for Part III
-Text here!
+
+Based on the results of the interview, it is evident that certain modifications are required to enhance the narratives and guarantee improved clarity.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Domestic NG supply chart: change title to Percent Decline in Domestic Natural Gas Production from the peak in 2014 (%)  |
-|                                          | Increase the chart axis label size        |
-|                                          | FT Chart: add unit to the legend (/100 THB)  |
-|                                          | Add a new section showing cost different for each source of electricity                                              |
+| The font size in charts shows up quite small on Shorthand | Increase the chart axis label size        |
+| FT Chart is a bit vague. Without the unit, people might assume that it is THB. |  add unit to the legend (/100 THB)  |
+| There is not much relevance moving from the impact of high electricity cost to the call to action | Add a new section showing cost different for each source of electricity |
 
+Overall, the storyboard is quite appealing and compelling. Nonetheless, there are some specific details that require adjustment, particularly in the transition leading to the call to action. It would be beneficial for the audience to have access to additional information regarding the production costs of various types of renewable energy, allowing for a more compelling narrative through comparisons.
 
-> ...include any final thoughts you have here. 
-
-Text here!
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+The color scheme used on similar topics is mostly red/ orange to show the sense of urgency and negative impact. The story also features images of money and the electricity bills.
 
 <p align="center">
 <img src="final-project-part-two-moodboard.png" width="600"/>
