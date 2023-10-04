@@ -11,7 +11,7 @@ The story is drafted in Shorthand as shown below. The full page can also be acce
 # User research 
 
 ## Target audience
-This story is aimed at the general population in Thailand, with the goal of providing information about the factors contributing to high electricity prices and raising awareness of the shift towards more renewable energy sources. Representative individuals have been selected from diverse educational backgrounds, occupations, and age groups to provide feedback on the storyboard, as the target audience is quite diverse. 
+This story is aimed at the electricity consumer and household owner in Thailand, with the goal of providing information about the factors contributing to high electricity prices and raising awareness of the shift towards more renewable energy sources. Representative individuals have been selected from diverse educational backgrounds, occupations, and age groups to provide feedback on the storyboard, as the target audience is quite diverse. 
 
 ## Interview script
 
