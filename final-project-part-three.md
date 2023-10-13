@@ -15,6 +15,14 @@ According to the user research in part II, there are some comments and suggestio
 ## The audience
 This story is aimed at the electricity consumer and household owner in Thailand, with the goal of providing information about the factors contributing to high electricity prices and raising awareness of the shift towards more renewable energy sources. It also highlights the impact beyond houshold electricity bills to economics as a whole.
 
+## Reference
+1. Electricity Generating Authority of Thailand (EGAT). (n.d.). Electricity fee rate. EGAT. https://www.egat.co.th/home/egat-price/ 
+2. Energy Policy and Planning Office (EPPO). (2020). Gas Plan 2018 - 2037. EPPO. https://www.eppo.go.th/images/Infromation_service/public_relations/PDF/Gasplan2018.pdf 
+3. Energy Policy and Planning Office (EPPO). Natural Gas. EPPO. https://www.eppo.go.th/index.php/th/energy-information/static-energy/static-gas 
+4. Metropolitan Electricity Authority. (2023, July 30). FT Statistics. MEA. https://www.mea.or.th/our-services/tariff-calculation/ft/bG2m6iSUN 
+5. Sriring, O., & Thaichareon, K. (2023, December 23). Thai power price hike to hurt business, competitiveness - business group. Reuters. https://www.reuters.com/markets/asia/thai-power-price-hike-hurt-business-competitiveness-business-group-2022-12-23/#:~:text=BANGKOK%2C%20Dec%2023%20(Reuters),business%20group%20said%20on%20Friday. 
+6. Sutabutr, T. (2017, December 14). 4 Things to know about electricity bills. Post Today. https://www.posttoday.com/pr-news/530388#
+
 ## Final design decisions
 I decided to start the story in the darker colors with yellow and white accents to provide the bad impression and brighten the story up to the solution at the end. There are pages with highlighted important statistics to keep it clean from busy text and charts. For example, the call out that 50% of electricity is from natural gas. The story also includes multiple questions along the way to guide and transition the story into different sections. 
 
