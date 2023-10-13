@@ -17,8 +17,7 @@ In this assignment, various tools and visualization are used to provide informat
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 I critiqued a visualization from World Investment Report published by UNCTAD in 2010 and proposed a new visualization that would better convey the information. 
 
-## Final project
-[>>Link to the story<<](https://carnegiemellon.shorthandstories.com/unpacking-the-surge/index.html)
+## Final project: [Unpacking the Surge : Why Electricity Prices in Thailand Keep Rising](https://carnegiemellon.shorthandstories.com/unpacking-the-surge/index.html)
 For the final projecct, I've created a story on "Unpacking the Surge : Why Electricity Prices in Thailand Keep Rising" using Shorthands. The story discussed the reason behind surging electricity price in Thailand and the potential solution. I've gone through story development process from planning, drafting, user research and revising. The process are documented in three parts below.
 
 - [Final Project Part I](final-project-part-one.md)
