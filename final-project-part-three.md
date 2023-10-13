@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://pkraikhun.github.io/tswd-portfolio-pkraikhu/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
 The full page of the story on Unpacking the Surge:Why Electricity Prices in Thailand Keep Rising is available through this [link](https://carnegiemellon.shorthandstories.com/unpacking-the-surge/index.html). 
