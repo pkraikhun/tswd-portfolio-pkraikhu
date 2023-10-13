@@ -45,7 +45,7 @@ Based on the results of the interview, it is evident that certain modifications 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Domestic NG supply chart: change title to Percent Decline in Domestic Natural Gas Production from the peak in 2014 (%)  |
+| The title of domestic NG chart is not clear | Domestic NG supply chart: change title to Percent Decline in Domestic Natural Gas Production from the peak in 2014 (%)  |
 | The font size in charts shows up quite small on Shorthand | Increase the chart axis label size        |
 | FT Chart is a bit vague. Without the unit, people might assume that it is THB. |  add unit to the legend (/100 THB)  |
 | There is not much relevance moving from the impact of high electricity cost to the call to action | Add a new section showing cost different for each source of electricity |
