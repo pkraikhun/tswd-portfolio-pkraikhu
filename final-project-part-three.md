@@ -1,31 +1,23 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+The full page of the story on Unpacking the Surge:Why Electricity Prices in Thailand Keep Rising is available through this [link](https://carnegiemellon.shorthandstories.com/unpacking-the-surge/index.html). 
 
-Text here!
+The story started with introducing the electricity price components. Then, the variable rate (FT) which is the source of the rise will be discussed. After that, depleting domestic natural gas production is identified as the causes of the rise in FT. The story is followed by the impact it has on the economics. Finally, the solution which is the change to renewable energy is introduced and the call to action would be awareness and support in shifting to more sustainable sources.
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+According to the user research in part II, there are some comments and suggestion to improve clarity and make the story more impactful. I've identified those and make changes in the following items
+- revise the domestic NG chart title to reflect the message and make it easier for the reader to understand the information presented.
+- font size of charts elements are adjusted to complement the main story
+- the unit of FT chart is added to make it more clear
+- before transitioning to the call to action, information to guide readers to the proposed solution is added. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+This story is aimed at the electricity consumer and household owner in Thailand, with the goal of providing information about the factors contributing to high electricity prices and raising awareness of the shift towards more renewable energy sources. It also highlights the impact beyond houshold electricity bills to economics as a whole.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
+I decided to start the story in the darker colors with yellow and white accents to provide the bad impression and brighten the story up to the solution at the end. There are pages with highlighted important statistics to keep it clean from busy text and charts. For example, the call out that 50% of electricity is from natural gas. The story also includes multiple questions along the way to guide and transition the story into different sections. 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+Creating this story about high electricity prices in Thailand has been an interesting journey. Improvements are made based on user feedback, making charts and data clearer. Colors and questions are used to guide the story from problems to solutions. I wish we had more time to dive deeper into the renewable energy solution and practical steps for consumers which will make the story even more compelling. What excites me most is the potential to raise awareness and inspire action. High electricity prices affect everyone, and shifting to renewable energy is not only smart but also necessary for the environment. In the end, I hope this story helps people in Thailand understand the issue and encourages them to support sustainable energy solutions.
 
-Text here!
